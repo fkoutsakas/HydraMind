@@ -22,5 +22,4 @@
 | MI:power board for the BBC micro:bit V2, |  2 | 2 X €5.90 = €11.80 |
 | MI:pro Protector Case for BBC micro:bit V1&V2- Clear|  1 |  €4.80  |  
 | micro:bit Enclosure for micro:bit V1&V2 - Lego Compatible |  1 |  €3.20 |
-
 | Συνολικό Κόστος  |  | 79,60 € |
